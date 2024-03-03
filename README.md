@@ -45,7 +45,7 @@ Conteúdo: Aplicação dos conceitos de modularidade, utilização de laços e c
 ----
 **Criar função "cadastrar conta bancária"**
 
-- o programa deve armazenar contas em uma lista, uma conta é composta por: agência, número da conta e usuário.
+- O programa deve armazenar contas em uma lista, uma conta é composta por: agência, número da conta e usuário.
 
 - O número da conta é sequencial, iniciando em 1.
 
