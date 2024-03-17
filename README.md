@@ -5,6 +5,8 @@ Nível: Intermediário
 
 Conteúdo: Aplicação dos conceitos de modularidade, utilização de laços e criação de funções.
 
+Linguagem: Python
+
 ----
 ### **DESAFIO**
 
